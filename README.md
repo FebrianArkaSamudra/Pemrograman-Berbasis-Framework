@@ -20,17 +20,28 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Laporan Praktikum
 
-To learn more about Next.js, take a look at the following resources:
+|  | Pemrograman Berbasis Framework 2026 |
+|--|--|
+| NIM |  2341720066|
+| Nama |  Febrian Arka Samudra |
+| Kelas | TI - 3I |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Praktikum 1
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Explain the uses of Git, VS Code, and NodeJS that you have installed in this practical session!
+2. Provide screenshots showing that each of these tools has been successfully installed on your device!
 
-## Deploy on Vercel
+Answer
+1. 
+Git
+Git is a version control system used to track code changes, manage different versions of a project, and collaborate with other developers.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Visual Studio Code (VS Code)
+Microsoft Visual Studio Code is a source code editor used to write and manage code efficiently. It provides features like syntax highlighting, extensions, debugging tools, and Git integration.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Node.js
+Node.js is a JavaScript runtime that allows developers to run JavaScript outside the browser, mainly for backend development. It also includes npm to manage project packages.
+
+2. 
